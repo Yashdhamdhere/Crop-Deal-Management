@@ -1,0 +1,5 @@
+server.port=8050
+spring.application.name=spi-gateway
+eureka.client.service-url.defaultZone=hhtp://localhost:8010/eureka
+
+spring.cloud.gateway.discovery.locator.enabled=true
