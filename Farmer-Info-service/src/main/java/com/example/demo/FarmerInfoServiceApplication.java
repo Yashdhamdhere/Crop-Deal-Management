@@ -10,6 +10,7 @@ public class FarmerInfoServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FarmerInfoServiceApplication.class, args);
+	System.out.println("SPRING FARMER APPLICATION IN RUNNING PROPERLY");
 	}
 
 }
